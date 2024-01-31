@@ -1,4 +1,4 @@
-let hola = holaMundo();
+holaMundo();
 
 function holaMundo() {
     console.log("¡Hola, mundo!");
